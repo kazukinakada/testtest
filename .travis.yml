@@ -1,1 +1,1 @@
-script: ./numsum.py
+script: python numsum.py
